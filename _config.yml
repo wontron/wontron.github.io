@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://wontron.github.io
+title: Awesome
+email: 
+author: wontron
+description: My awesome new site
+paginate: 3
+google_analytics: 
